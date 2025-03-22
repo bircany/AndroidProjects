@@ -16,8 +16,7 @@
         android:theme="@style/Theme.MapsProject"
         tools:targetApi="31">
         <meta-data
-            android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyD7LqG7W3dAQQTsPbmO5viIe98xjsePYR8" />
+
 
 
         <activity
